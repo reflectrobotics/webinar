@@ -15,4 +15,4 @@ Run the code:
 ```
 python3 robot.py
 ```
-![Go To Robot](https://github.com/reflectrobotics/turtle_control/blob/master/go_to_robot.gif)
+![Go To Robot](https://github.com/reflectrobotics/webinar/blob/master/go_to_robot.gif)
